@@ -1,0 +1,9 @@
+#carousel-example-generic{
+	float: right;
+	z-index: -10;
+
+}
+.col-md-4 {
+width: 33.33333333%;
+margin-top: 50px;
+}
